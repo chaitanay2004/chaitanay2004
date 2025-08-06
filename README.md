@@ -16,11 +16,28 @@
 ![Problem Solving](https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge&logo=algorithm&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Focus-Data%20Structures-green?style=for-the-badge&logo=tree&logoColor=white)
 
+### 📈 Animated Progress Tracker
+
+```
+🔥 STRIVER SDE SHEET PROGRESS 🔥
+
+Arrays & Strings     ████████░░ 80% (24/30)
+Linked Lists         ██████░░░░ 60% (18/30)  
+Binary Trees         ███████░░░ 70% (21/30)
+Dynamic Programming  █████░░░░░ 50% (15/30)
+Graphs & BFS/DFS     ████░░░░░░ 40% (12/30)
+Recursion & Backtrack ██████████ 90% (27/30)
+
+📊 Total Solved: 117/180 Questions
+🎯 Completion Rate: 65%
+⚡ Current Streak: Building...
+```
+
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanay2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chaitanay2004&theme=tokyonight&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=chaitanay2004&theme=tokyo-night&hide_border=true&custom_title=GitHub%20Contribution%20Activity)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanay2004&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -30,10 +47,16 @@
 
 <div align="center">
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Task-Manager&theme=tokyonight&hide_border=true)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Simon_game&theme=tokyonight&hide_border=true)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Drum_kit&theme=tokyonight&hide_border=true)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Amazon_clone&theme=tokyonight&hide_border=true)
+### 🗂️ Full Stack Projects
+![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Task-Manager&theme=tokyonight&hide_border=true)
+
+### 🎮 Interactive Games
+![Simon Game](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Simon_game&theme=tokyonight&hide_border=true)
+![Drum Kit](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Drum_kit&theme=tokyonight&hide_border=true)
+![Dice Game](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Dice_game&theme=tokyonight&hide_border=true)
+
+### 🛒 Web Development
+![Amazon Clone](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Amazon_clone&theme=tokyonight&hide_border=true)
 
 </div>
 
