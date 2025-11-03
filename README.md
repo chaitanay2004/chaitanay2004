@@ -13,8 +13,8 @@
 **Profile:** [chaitanay04 on TakeUForward](https://takeuforward.org/profile/chaitanay04)
 
 ![Coding Stats](https://img.shields.io/badge/SDE%20Sheet-TakeUForward-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge&logo=algorithm&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Focus-Data%20Structures-green?style=for-the-badge&logo=tree&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge&logo=code&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Focus-Data%20Structures-green?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 📈 Animated Progress Tracker
 
@@ -33,34 +33,46 @@ Recursion & Backtrack ██████████ 90% (27/30)
 ⚡ Current Streak: Building...
 ```
 
+</div>
+
 ---
+
+## 📈 GitHub Statistics
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanay2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=chaitanay2004&theme=tokyo-night&hide_border=true&custom_title=GitHub%20Contribution%20Activity)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanay2004&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaitanay2004&theme=tokyonight&hide_border=true)
 
 </div>
 
-## 📈 Repository Analytics
+---
+
+## 📈 Repository Showcase
 
 <div align="center">
 
 ### 🗂️ Full Stack Projects
-![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Task-Manager&theme=tokyonight&hide_border=true)
+[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Task-Manager&theme=tokyonight&hide_border=true)](https://github.com/chaitanay2004/Task-Manager)
 
 ### 🎮 Interactive Games
-![Simon Game](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Simon_game&theme=tokyonight&hide_border=true)
-![Drum Kit](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Drum_kit&theme=tokyonight&hide_border=true)
-![Dice Game](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Dice_game&theme=tokyonight&hide_border=true)
+[![Simon Game](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Simon_game&theme=tokyonight&hide_border=true)](https://github.com/chaitanay2004/Simon_game)
+
+[![Drum Kit](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Drum_kit&theme=tokyonight&hide_border=true)](https://github.com/chaitanay2004/Drum_kit)
+
+[![Dice Game](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Dice_game&theme=tokyonight&hide_border=true)](https://github.com/chaitanay2004/Dice_game)
 
 ### 🛒 Web Development
-![Amazon Clone](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Amazon_clone&theme=tokyonight&hide_border=true)
+[![Amazon Clone](https://github-readme-stats.vercel.app/api/pin/?username=chaitanay2004&repo=Amazon_clone&theme=tokyonight&hide_border=true)](https://github.com/chaitanay2004/Amazon_clone)
 
 </div>
 
-## 🛠️ Technology Stack Analytics
+---
+
+## 🛠️ Technology Stack
 
 <div align="center">
 
@@ -74,11 +86,13 @@ Recursion & Backtrack ██████████ 90% (27/30)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 
 </div>
+
+---
 
 ## 🚀 Project Portfolio
 
@@ -113,7 +127,9 @@ Recursion & Backtrack ██████████ 90% (27/30)
 - 🛍️ E-commerce interface replication
 - 📱 Responsive design with modern CSS techniques
 
-## 💼 Professional Experience Analytics
+---
+
+## 💼 Professional Experience
 
 ### 📊 Data Analyst Intern | Lagozon Technologies Pvt. Ltd.
 **Duration:** June 2025 - July 2025
@@ -131,7 +147,9 @@ Recursion & Backtrack ██████████ 90% (27/30)
 
 </div>
 
-## 🎓 Education & Certifications Analytics
+---
+
+## 🎓 Education & Certifications
 
 <div align="center">
 
@@ -145,22 +163,28 @@ Recursion & Backtrack ██████████ 90% (27/30)
 
 </div>
 
-## 👑 Leadership Analytics
+---
+
+## 👑 Leadership
 
 ### Vice-Chairperson | Mozilla Firefox Club
 **Tenure:** January 2024 - March 2025  
 - 🦊 Led community initiatives and technical workshops
 - 📈 Managed club operations and member engagement
 
+---
+
 ## 📊 Contribution Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaitanay2004&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaitanay2004&theme=tokyo-night&hide_border=true&custom_title=GitHub%20Contribution%20Activity)
 
 </div>
 
-## 🏆 Achievement Metrics
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -168,7 +192,9 @@ Recursion & Backtrack ██████████ 90% (27/30)
 
 </div>
 
-## 📱 Profile Analytics
+---
+
+## 📱 Profile Views
 
 <div align="center">
 
